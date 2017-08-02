@@ -76,7 +76,7 @@ function setInput(text) {
 }
 
 function updateRec() {
-  $recBtn.text(recognition ? "Stop" : "Speak");
+  $recBtn.text(recognition ? "Stop" : "Hablar!");
 }
 
 function send() {
